@@ -42,11 +42,10 @@
 
   <a href="https://linkedin.com/in/shekhar-raktate-42693228b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
+  </a> &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ShekharRaktate">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>s
+  </a>
 
 </p>
 
